@@ -9,7 +9,7 @@ body {
   }
 
   li {
-    text-align: center;
+    text-align: match-parent;
   }
   
   p {
