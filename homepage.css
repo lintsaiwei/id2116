@@ -2,7 +2,7 @@
 html {
   margin: auto;
   padding: 0;
-  align-items: center;
+  vertical-align: middle;
 }
 
 body {
@@ -46,5 +46,5 @@ p {
 
 #photos {
   vertical-align: middle; 
-  margin: 0 0px;
+  margin: auto;
 } 
