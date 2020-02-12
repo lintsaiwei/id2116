@@ -24,13 +24,13 @@ p {
 .row {
   display: flex;
   padding: 0;
-  vertical-align:middle;  
-
+  vertical-align: auto; 
+  margin: auto;
 }
 
 .column {
  
   padding: 0;
-  vertical-align:middle;
-  margin: auto;
+ 
+
 }
