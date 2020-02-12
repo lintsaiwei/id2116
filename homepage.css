@@ -19,16 +19,16 @@ p {
   font-size: 20px;
 }
 
-.column {
-  float: none;
-  width: 40%;
-  padding: 5px;
+.boxes{
+  width:50%;
+  float:left;
 }
-
-.row::after{
-  content: "";
-  clear: both;
-  display: table;
+#mainDiv{
+  width:50%;
+  margin:auto;
+}
+img{
+  max-width:100%;
 }
 
 * {
