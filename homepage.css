@@ -29,7 +29,7 @@ p {
   display: flex;
   padding: 0;
   vertical-align:middle;  
-margin: auto;
+  margin: auto;
 }
 
 .column {
