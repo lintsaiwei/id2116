@@ -22,13 +22,13 @@ p {
 .row {
   display: flex;
   flex-wrap: wrap;
-  margin: 10 10px;
+  margin: 10px 10px;
 }
 
 .column {
   flex: 50%;
-  margin: 10 10px;
-
+  margin: 10px 10px;
+  
 }
 
 .column img {
