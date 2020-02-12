@@ -43,7 +43,13 @@ p {
   vertical-align: middle;
 }
 
-#photos {
-  vertical-align: middle; 
-  margin: auto;
-} 
+.row {
+  display: flex;
+  vertical-align: middle;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+  vertical-align: middle;
+}
