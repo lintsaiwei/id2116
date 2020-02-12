@@ -35,3 +35,7 @@ p {
   margin-top: 8px;
   vertical-align: middle;
 }
+
+.row img {
+  vertical-align: middle;
+}
