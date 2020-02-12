@@ -24,13 +24,17 @@ p {
 .row {
   display: flex;
   padding: 0;
-  vertical-align: auto; 
-  margin: auto;
+  vertical-align:middle;  
+
 }
 
 .column {
  
   padding: 0;
- 
+  vertical-align:middle;
+  margin: auto;
+}
 
+.weekly {
+  width: 100%;
 }
