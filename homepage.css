@@ -28,14 +28,13 @@ p {
 
 .row {
   display: flex;
-  flex-wrap: wrap;
   padding: 0;
   vertical-align:middle;  
   margin: auto;
 }
 
 .column {
-  flex: 50%;
+  display: flex;
   padding: 0;
   vertical-align:middle;
   margin: auto;
