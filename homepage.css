@@ -42,14 +42,3 @@ p {
   margin-top: 8px;
   vertical-align: middle;
 }
-
-.row {
-  display: flex;
-  vertical-align: middle;
-}
-
-.column {
-  flex: 50%;
-  padding: 5px;
-  vertical-align: middle;
-}
