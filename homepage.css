@@ -30,3 +30,7 @@ p {
   clear: both;
   display: table;
 }
+
+* {
+  box-sizing: border-box;
+}
