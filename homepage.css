@@ -22,12 +22,12 @@ p {
 .row {
   display: flex;
   flex-wrap: wrap;
-  margin: 10px 10px;
+  padding: 10 10px;
 }
 
 .column {
   flex: 50%;
-  margin: 10px 10px;
+  padding: 10 10px;
   
 }
 
