@@ -1,5 +1,8 @@
 
-
+html {
+  margin: auto;
+  padding: 0;
+}
 
 body {
   background-color: lightblue;
@@ -29,10 +32,7 @@ p {
 }
 
 .column {
- 
+  display: flex;
   padding: 0;
   vertical-align:middle;
-  margin: auto;
 }
-
-
