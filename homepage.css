@@ -24,10 +24,11 @@ p {
   font-size: 20px;
 }
 
-.row {
+.row-container {
+  border: 1px solid #fff;
+  width: 900px;
   display: flex;
-  padding: 0;
-  vertical-align:middle;  
+  justify-content: center;
 
 }
 
