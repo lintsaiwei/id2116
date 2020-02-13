@@ -25,9 +25,8 @@ p {
 }
 
 .row-container {
-/* ... */
 display: flex;
-justify-content: center;    /* Add this */
+justify-content: center;  
 }
 
 .column {
