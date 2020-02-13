@@ -31,8 +31,3 @@ p {
   justify-content: space-around; 
 }
 
-.column {
-  display: flex;
-  padding: 0;
-  vertical-align:middle;
-}
