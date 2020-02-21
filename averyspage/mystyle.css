@@ -11,7 +11,7 @@ body{
 }
 
 .title{
-    padding-top: 130px;
+    padding-top: 150px;
 }
 
 .title p{
@@ -29,7 +29,7 @@ body{
 
 .introduction p{
     font-family: 'Lucida console', monospace ;
-    color: rgb(0, 0, 0);
+    color: rgb(231, 231, 231);
     font: 10px;
     font-weight: lighter;
     padding-left: 150px;
