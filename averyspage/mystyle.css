@@ -18,3 +18,12 @@ body{
     padding-left: 300px;
     line-height: 1em;
 }
+
+.introduction{
+    font-family: 'Lucida console', monospace ;
+    color: black;
+    font: 5px;
+    font-weight: lighter;
+    padding-left: 400px;
+    line-height: 0.8em;
+}
