@@ -20,7 +20,7 @@ body{
 }
 
 .introduction{
-    width: 40%;
+    width: 400px;
 }
 
 .introduction p{
@@ -29,5 +29,5 @@ body{
     font: 5px;
     font-weight: lighter;
     padding-left: 300px;
-    line-height: 0.8em;
+    line-height: 1em;
 }
