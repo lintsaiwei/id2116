@@ -2,7 +2,7 @@ body{
     margin: 0px;
 }
 
-.title{
+#bigphotoplace{
     background-image: url('images/averybanner2.jpg');
     background-position: left;
     background-repeat: no-repeat;
