@@ -12,9 +12,8 @@ html *
 .column {
     float: left;
     width: 40%;
-   
-    padding-left: auto;
-    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
    
 
   }
