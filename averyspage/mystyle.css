@@ -7,6 +7,15 @@ p{
     font-family: 'Lucida console', monospace ;
 }
 
+a:hover{
+    color: lightsalmon;
+}
+
+a:visited{
+    color: lightslategrey;
+}
+
+
 #bigphotoplace{
     background-image: url('images/averybanner2.jpg');
     background-position: bottom left;
