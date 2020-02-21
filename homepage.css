@@ -1,44 +1,27 @@
-
-html {
-  text-align: centre;
-}
-
 body {
   background-color: lightblue;
 }
 
-h1 {
-  color: rgb(0, 0, 0);
-  text-align: center;
+html *
+{
+    text-align: centre;
+
 }
-
-h2 {
-  font-family:verdana;
-  font-size: 30px;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-
-
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
-  float: left;
-  width: 50%;
-  padding: 15px;
- 
+    float: left;
+    width: 25%;
+    padding: 15px;
+   
 
-}
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
 
-
-}
+  }
