@@ -19,7 +19,7 @@ body{
     line-height: 1em;
 }
 
-.introduction{
+.introduction p{
     font-family: 'Lucida console', monospace ;
     color: black;
     font: 5px;
