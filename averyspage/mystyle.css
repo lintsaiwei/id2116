@@ -18,7 +18,7 @@ body{
     font-family: 'Lucida console', monospace ;
     color: black;
     font: 15px;
-    font-weight: lighter;
+    font-weight: bold;
     padding-left: 150px;
     line-height: 1em;
 }
