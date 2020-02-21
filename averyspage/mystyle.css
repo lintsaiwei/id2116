@@ -18,8 +18,8 @@ body{
 .title p{
     font-family: 'Lucida console', monospace ;
     color: black;
-    font-size: 30px;
-    font-weight: bold;
+    font-size: 25px;
+    font-weight: 500;
     padding-left: 150px;
     line-height: 1em;
 }
@@ -31,7 +31,7 @@ body{
 .introduction p{
     font-family: 'Lucida console', monospace ;
     color: rgb(231, 231, 231);
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 200;
     padding-left: 150px;
     line-height: 1.5em;
