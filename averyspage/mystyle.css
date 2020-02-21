@@ -12,7 +12,7 @@ body{
 }
 
 .title{
-    padding-top: 100px;
+    padding-top: 110px;
 }
 
 .title p{
@@ -26,6 +26,7 @@ body{
 
 .introduction{
     width: 580px;
+    margin-top: 100px;
 }
 
 .introduction p{
