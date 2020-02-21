@@ -12,9 +12,12 @@ a:hover{
 }
 
 a:active{
-    color: lightslategrey;
+    color: mediumaquamarine;
 }
 
+a:visited{
+    color: lightslategrey;
+}
 
 #bigphotoplace{
     background-image: url('images/averybanner2.jpg');
