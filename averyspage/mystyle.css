@@ -26,21 +26,9 @@ a:active{
     overflow: hidden;
 }
 
-.title{
-    padding-top: 110px;
-}
-
-.title p{
-    color: black;
-    font-size: 25px;
-    font-weight: normal;
-    padding-left: 100px;
-    line-height: 0.5em;
-}
-
 .introduction{
     width: 570px;
-    margin-top: 120px;
+    margin-top: 330px;
 }
 
 .introduction p{
