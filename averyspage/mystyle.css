@@ -43,6 +43,8 @@ p{
 #main{
     padding-left: 100px;
     padding-top: 50px;
+    width: 50%;
+    box-sizing: border-box;
 }
 
 #main p{
@@ -56,4 +58,11 @@ p{
     color: black;
     font-size: 15px;
     font-weight: lighter;
+}
+
+#aside{
+    float: inline-end;
+    padding-top: 50px;
+    width: 50%;
+    box-sizing: border-box;
 }
