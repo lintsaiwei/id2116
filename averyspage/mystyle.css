@@ -12,12 +12,12 @@ body{
 
 .title{
     padding-top: 80px;
-    font: 15px;
 }
 
 .title p{
     font-family: 'Lucida console', monospace ;
     color: black;
+    font: 15px;
     font-weight: lighter;
     padding-left: 250px;
     line-height: 1em;
@@ -29,7 +29,7 @@ body{
 
 .introduction p{
     font-family: 'Lucida console', monospace ;
-    color: black;
+    color: rgb(255, 255, 255);
     font: 10px;
     font-weight: lighter;
     padding-left: 250px;
