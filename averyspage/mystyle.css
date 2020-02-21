@@ -2,6 +2,10 @@ body{
     margin: 0px;
 }
 
+p{
+    font-family: 'Lucida console', monospace ;
+}
+
 #bigphotoplace{
     background-image: url('images/averybanner2.jpg');
     background-position: bottom left;
@@ -16,7 +20,6 @@ body{
 }
 
 .title p{
-    font-family: 'Lucida console', monospace ;
     color: black;
     font-size: 25px;
     font-weight: normal;
@@ -30,7 +33,6 @@ body{
 }
 
 .introduction p{
-    font-family: 'Lucida console', monospace ;
     color: rgb(231, 231, 231);
     font-size: 15px;
     font-weight: 200;
@@ -40,18 +42,16 @@ body{
 
 #main{
     padding-left: 100px;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 #main p{
-    font-family: 'Lucida console', monospace ;
     color: black;
     font-size: 20px;
     font-weight: normal;
 }
 
 #main ul{
-    font-family: 'Lucida console', monospace ;
     color: black;
     font-size: 15px;
     font-weight: lighter;
