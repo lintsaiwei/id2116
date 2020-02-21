@@ -4,7 +4,7 @@ body{
 
 #bigphotoplace{
     background-image: url('images/averybanner2.jpg');
-    background-position: left;
+    background-position: top left;
     background-repeat: no-repeat;
     height: 600px;
     margin: 0px;
