@@ -29,7 +29,7 @@ body{
 
 .introduction p{
     font-family: 'Lucida console', monospace ;
-    color: rgb(83, 83, 83);
+    color: rgb(0, 0, 0);
     font: 10px;
     font-weight: lighter;
     padding-left: 250px;
