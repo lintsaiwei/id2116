@@ -3,4 +3,6 @@
     color: black;
     font: 16px;
     background-image: url('../images/averybanner1.jpeg');
+    background-position: left;
+    height: 600px;
 }
