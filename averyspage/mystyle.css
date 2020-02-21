@@ -61,7 +61,7 @@ p{
 }
 
 #aside{
-    float: inline-end;
+    float: right;
     padding-top: 50px;
     width: 50%;
     box-sizing: border-box;
