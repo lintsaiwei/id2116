@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    font-family: 'Lucida console', monospace ;
 }
 
 #bigphotoplace{
@@ -10,16 +11,11 @@ body{
     margin: 0px;
 }
 
-p{
-    font-family: 'Lucida console', monospace ;
-}
-
 .title{
     padding-top: 150px;
 }
 
 .title p{
-    font-family: 'Lucida console', monospace ;
     color: black;
     font: 15px;
     font-weight: bold;
