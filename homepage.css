@@ -12,7 +12,9 @@ html *
 .column {
     float: left;
     width: 40%;
-    padding: 15px;
+   
+    padding-left: auto;
+    padding-right: auto;
    
 
   }
