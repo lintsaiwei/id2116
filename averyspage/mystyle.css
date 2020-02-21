@@ -19,7 +19,7 @@ body{
     font-family: 'Lucida console', monospace ;
     color: black;
     font-size: 25px;
-    font-weight: initial;
+    font-weight: bold;
     padding-left: 100px;
     line-height: 0.5em;
 }
@@ -40,4 +40,12 @@ body{
 
 #main{
     padding-left: 150px;
+}
+
+#main p{
+    font-family: 'Lucida console', monospace ;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 100px;a
 }
