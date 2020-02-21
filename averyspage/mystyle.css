@@ -2,7 +2,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
     font: 16px;
-    background-image: url('../images/averybanner1.jpeg');
+    background-image: url('../images/averybanner1.jpeg') width="100%";
     background-position: left;
     height: 600px;
 }
