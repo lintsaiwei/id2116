@@ -15,9 +15,6 @@ a:active{
     color: mediumaquamarine;
 }
 
-a:visited{
-    color: lightslategrey;
-}
 
 #bigphotoplace{
     background-image: url('images/averybanner2.jpg');
