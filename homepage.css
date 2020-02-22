@@ -11,12 +11,23 @@ html *
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
     float: left;
-    width: 40%;
+    width: 50%;
     padding: 60px;
-   
+    box-sizing: border-box;
 
   }
   
+  #avery{
+    float: left;
+    width: 50%;
+    padding: 60px;
+    box-sizing: border-box;
+  }
+
+  #avery:hover{
+    background-image: url('images/ME-MAWEI.png');
+  }
+
   /* Clear floats after image containers */
   .row::after {
     content: "";
@@ -24,14 +35,4 @@ html *
     display: table;
 
 
-  }
-
-  #avery{
-    float: left;
-    width: 40%;
-    padding: 60px;
-  }
-
-  #avery:hover{
-    background-image: url('images/ME-MAWEI.png');
   }
