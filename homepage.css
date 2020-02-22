@@ -26,8 +26,11 @@ html *
 
   #avery:hover{
     background-image: url('images/ME-MAWEI.png');
-    width: 450px;
     background-position: center;
+    float: left;
+    width: 50%;
+    padding: 60px;
+    box-sizing: border-box;
   }
 
   /* Clear floats after image containers */
