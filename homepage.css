@@ -26,10 +26,6 @@ html *
 
   }
 
-  #avery{
-    background-image: url('images/ME-CHANGFA.png');
-  }
-
   #avery:hover{
     background-image: url('images/ME-MAWEI.png');
   }
