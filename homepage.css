@@ -10,7 +10,7 @@ html *
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
-    float: left;
+    float: right;
     width: 50%;
     padding: 60px;
     box-sizing: border-box;
