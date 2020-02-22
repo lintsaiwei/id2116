@@ -26,6 +26,12 @@ html *
 
   }
 
+  #avery{
+    float: left;
+    width: 40%;
+    padding: 60px;
+  }
+
   #avery:hover{
     background-image: url('images/ME-MAWEI.png');
   }
