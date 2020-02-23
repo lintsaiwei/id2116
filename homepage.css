@@ -8,20 +8,22 @@ html *
 
 }
 
+#avery{
+  position: absolute;
+  float: left;
+  width: 50%;
+  padding: 60px;
+  box-sizing: border-box;
+}
+
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
+    position: absolute;
     float: right;
     width: 50%;
     padding: 60px;
     box-sizing: border-box;
 
-  }
-  
-  #avery{
-    float: left;
-    width: 50%;
-    padding: 60px;
-    box-sizing: border-box;
   }
 
   /* #avery:hover{
