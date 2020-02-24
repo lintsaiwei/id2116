@@ -13,11 +13,10 @@ html *
   width: 50% ;
   height: 500px;
   margin-top: 10px;
-  box-sizing: border-box;
   background-image:url("images/av-long.png");
   background-position: center;
   background-repeat: no-repeat;
-
+  box-sizing: border-box;
 }
 
 .left:hover{
@@ -39,6 +38,7 @@ html *
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
+    float: left;  
     width: 50%;
     padding: 60px;
     box-sizing: border-box;
@@ -49,6 +49,4 @@ html *
     content: "";
     clear: both;
     display: table;
-
-
   }
