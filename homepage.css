@@ -37,13 +37,6 @@ html *
   box-sizing: border-box;
 }
 
-#tsaiwei {
-  margin:0 auto;
-  width: 500px ;
-  background-image:url("images/tsaiwei.png");
-  background-position-x: center;
-}
-
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
     width: 50%;
