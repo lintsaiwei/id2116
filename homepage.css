@@ -8,7 +8,6 @@ html *
 }
 
 .left{
-  position: absolute;
   float: left;
   width: 50% ;
   height: 500px;
@@ -16,7 +15,6 @@ html *
 }
 
 .right{
-  position: absolute;
   float: right;
   width: 50% ;
   height: 500px;
