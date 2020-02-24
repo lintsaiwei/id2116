@@ -14,14 +14,14 @@ html *
   height: 500px;
   margin-top: 10px;
   box-sizing: border-box;
-  background-image:url("images/a-longhair.png");
+  background-image:url("images/av-long.png");
   background-position: center;
   background-repeat: no-repeat;
 
 }
 
 .left:hover{
-  background-image:url("images/a-mawei.png");
+  background-image:url("images/av-mawei.png");
   background-repeat: no-repeat;
 }
 
