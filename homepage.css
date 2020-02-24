@@ -14,9 +14,8 @@ html *
   height: 500px;
   margin-top: 10px;
   box-sizing: border-box;
-  padding-left: 100px;
   background-image:url("images/a-longhair.png");
-  background-position: top left;
+  background-position: center;
   background-repeat: no-repeat;
 
 }
@@ -31,7 +30,8 @@ html *
   width: 50% ;
   height: 500px;
   margin-top: 10px;
-  background-color: rgb(74, 180, 106);
+  background-image:url("images/tsaiwei-home.png");
+  background-position: center;
   box-sizing: border-box;
 }
 
@@ -42,18 +42,6 @@ html *
   background-position-x: center;
 }
 
-
-
-/*
-  #avery{
-    position: absolute;
-    float: left;
-    width: 50%;
-    padding: 60px;
-    box-sizing: border-box;
-  }
-*/
-
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
     width: 50%;
@@ -61,16 +49,6 @@ html *
     box-sizing: border-box;
   }
   
-
-
-  /* #avery:hover{
-    background-image: url('images/ME-MAWEI.png');
-    float: left;
-    width: 50%;
-    padding: 60px;
-    box-sizing: border-box; 
-  } */
-
   /* Clear floats after image containers */
   .row::after {
     content: "";
