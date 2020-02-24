@@ -26,7 +26,7 @@ html *
 #avery {
   margin:0;
   background-image:url("images/ME-CHANGFA.png");
-  width: 450px ;
+  width: 20%;
   background-position: top left;
   background-repeat: no-repeat;
 }
