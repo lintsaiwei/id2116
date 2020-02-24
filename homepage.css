@@ -11,7 +11,7 @@ html *
   float: left;
   width: 50% ;
   height: 500px;
-  margin-top: 100px;
+  margin-top: 30px;
   box-sizing: border-box;
 }
 
@@ -19,7 +19,7 @@ html *
   float: right;
   width: 50% ;
   height: 500px;
-  margin-top: 100px;
+  margin-top: 30px;
   box-sizing: border-box;
 }
 
