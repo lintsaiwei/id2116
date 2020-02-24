@@ -22,6 +22,7 @@ html *
 
 .left:hover{
   background-image:url("images/a-mawei.png");
+  background-repeat: no-repeat;
 }
 
 .right{
@@ -32,6 +33,7 @@ html *
   margin-top: 10px;
   background-image:url("images/tsaiwei-home.png");
   background-position: center;
+  background-repeat: no-repeat;
   box-sizing: border-box;
 }
 
