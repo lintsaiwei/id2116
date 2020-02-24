@@ -25,7 +25,8 @@ html *
   margin:0;
   background-image:url("images/ME-CHANGFA.png");
   width: 450px ;
-  background-position-x: center;
+  background-position: top left;
+  background-repeat: no-repeat;
 }
 
 #avery:hover {
