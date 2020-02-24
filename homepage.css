@@ -27,15 +27,14 @@ html *
 
 #avery {
   margin:0;
-  background-image:url("images/ME-CHANGFA.png");
+  background-image:url("images/a-longhair.png");
   width: 20%;
   background-position: top left;
   background-repeat: no-repeat;
 }
 
 #avery:hover {
-  background-image:url("images/ME-MAWEI.png");
-  width: 450px ;
+  background-image:url("images/a-mawei.png");
 }
 
 #tsaiwei {
