@@ -25,7 +25,7 @@ html *
   margin:0;
   background-image:url("images/ME-CHANGFA.png");
   width: 450px ;
-  transition: background-image 0s;
+  background-position-x: center;
 }
 
 #avery:hover {
@@ -36,8 +36,8 @@ html *
 #tsaiwei {
   margin:0 auto;
   width: 500px ;
-  transition: background-image 0s;
   background-image:url("images/tsaiwei.png");
+  background-position-x: center;
 }
 
 
