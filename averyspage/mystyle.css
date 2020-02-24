@@ -18,12 +18,16 @@ a:active{
 
 
 #bigphotoplace{
-    background-image: url('images/averybannerNEW.jpg');
+    background-image: url('images/averybanner1-1.jpg');
     background-position: bottom left;
     background-repeat: no-repeat;
     height: 530px;
     margin: 0px;
     overflow: hidden;
+}
+
+#bigphotoplace:hover{
+    background-image: url('images/averybanner1-2.jpg');
 }
 
 .introduction{
