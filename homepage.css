@@ -14,7 +14,14 @@ html *
   height: 500px;
   margin-top: 10px;
   box-sizing: border-box;
-  background-color: blue;
+  background-image:url("images/a-longhair.png");
+  background-position: top left;
+  background-repeat: no-repeat;
+
+}
+
+.left:hover{
+  background-image:url("images/a-mawei.png");
 }
 
 .right{
@@ -27,6 +34,7 @@ html *
   box-sizing: border-box;
 }
 
+/*
 #avery {
   margin:0;
   background-image:url("images/a-longhair.png");
@@ -38,6 +46,7 @@ html *
 #avery:hover {
   background-image:url("images/a-mawei.png");
 }
+*/
 
 #tsaiwei {
   margin:0 auto;
