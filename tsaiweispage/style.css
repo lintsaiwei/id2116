@@ -49,9 +49,12 @@ a:active{
 #main{
   padding-left: 100px;
   padding-top: 45px;
+  margin-left: 50px;
+  margin-top: 50px;
   width: 50%;
   box-sizing: border-box;
   float: left;
+  background-color: white; opacity: .7;
 }
 
 #main p{
@@ -72,7 +75,10 @@ a:active{
   float: right;
   padding-top: 52px;
   padding-left: 100px;
+  margin-right: 50px;
+  margin-top: 50px;
   width: 50%;
   box-sizing: border-box;
   color: rgb(41, 41, 41);
+  background-color: white; opacity: .7;
 }
