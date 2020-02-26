@@ -30,10 +30,15 @@ html *
   width: 50% ;
   height: 500px;
   margin-top: 10px;
-  background-image:url("images/tsaiwei-home.png");
+  background-image:url("tsaiweispage/images/portrait1.png");
   background-position: center;
   background-repeat: no-repeat;
   box-sizing: border-box;
+}
+
+.right:hover{
+  background-image:url("tsaiweispage/images/portrait2.png");
+  background-repeat: no-repeat;
 }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
