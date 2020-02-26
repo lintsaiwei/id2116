@@ -1,0 +1,78 @@
+body{
+  padding-top: 30px;
+  color: rgb(238, 238, 238);
+  margin: 0px;
+}
+
+p{
+  font-family: 'Lucida console', monospace ;
+}
+
+a:hover{
+  color: lightsalmon;
+}
+
+a:active{
+  color: mediumaquamarine;
+}
+
+
+#bigphotoplace{
+  background-image: url('images/lookaway.JPG');
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  height: 530px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+#bigphotoplace:hover{
+  background-image: url('images/lookhere.JPG');
+}
+
+.introduction{
+  width: 570px;
+  margin-top: 200px;
+  float: right;
+  background-color: rgb(228, 210, 152); opacity: .7;
+}
+
+.introduction p{
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  font-weight: 300;
+  padding-left: 50px;
+  padding-right: 50px;
+  line-height: 1.8em;
+}
+
+#main{
+  padding-left: 100px;
+  padding-top: 45px;
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+}
+
+#main p{
+  color: rgb(41, 41, 41);
+  font-size: 20px;
+  font-weight: normal;
+}
+
+#main ul{
+  font-family: 'Lucida console', monospace ;
+  color: rgb(41, 41, 41);
+  font-size: 15px;
+  font-weight: lighter;
+  line-height: 1.8em;
+}
+
+#aside{
+  float: right;
+  padding-top: 52px;
+  padding-left: 100px;
+  width: 50%;
+  box-sizing: border-box;
+  color: rgb(41, 41, 41);
+}
