@@ -30,14 +30,14 @@ html *
   width: 50% ;
   height: 500px;
   margin-top: 10px;
-  background-image:url("tsaiweispage/images/portrait1.png");
+  background-image:url("tsaiweispage/images/Artboard\ 5.png"); 
   background-position: center;
   background-repeat: no-repeat;
   box-sizing: border-box;
 }
 
 .right:hover{
-  background-image:url("tsaiweispage/images/portrait2.png");
+  background-image:url("tsaiweispage/images/Artboard\ 6.png");
   background-repeat: no-repeat;
 }
 
