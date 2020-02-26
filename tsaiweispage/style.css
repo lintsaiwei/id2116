@@ -47,10 +47,13 @@ a:active{
 }
 
 #main{
-  padding-left: 100px;
-  padding-top: 45px;
+  padding-left: 50px;
+  padding-top: 30px;
+  padding-right: 50px;
+  padding-bottom: 30px;
   margin-left: 50px;
   margin-top: 50px;
+  margin-bottom: 50px;
   width: 50%;
   box-sizing: border-box;
   float: left;
@@ -72,11 +75,14 @@ a:active{
 }
 
 #aside{
-  padding-left: 100px;
-  padding-top: 45px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   margin-right: 50px;
+  margin-top: 258px;
   margin-bottom: 50px;
-  width: 50%;
+  width: 40%;
   box-sizing: border-box;
   float: right;
   background-color: white; opacity: .7;
