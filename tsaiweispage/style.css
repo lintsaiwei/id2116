@@ -30,7 +30,7 @@ a:active{
   background-image: url('images/lookhere.JPG');
   border-radius: 50%;
   width: 530px;
-  background-attachment: initial;
+  background-attachment: scroll;
   margin-left: 120px;
   
 }
