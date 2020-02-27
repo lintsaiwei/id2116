@@ -53,6 +53,10 @@ a:active{
   background-attachment: fixed;
 }
 
+.introduction p: :hover{
+  background-attachment: fixed;
+}
+
 #main{
   padding-left: 50px;
   padding-top: 30px;
