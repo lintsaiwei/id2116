@@ -28,9 +28,6 @@ a:active{
 
 #bigphotoplace:hover{
   background-image: url('images/lookhere.JPG');
-  border-radius: 100%;
-  width: 500px;
-  padding-left: 100px;
 }
 
 .introduction{
