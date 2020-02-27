@@ -30,8 +30,8 @@ a:active{
   background-image: url('images/lookhere.JPG');
   border-radius: 50%;
   width: 530px;
-  background-position: left;
-  margin-left: 500px;
+  background-attachment: fixed;
+  margin-left: 120px;
   
 }
 
@@ -40,6 +40,7 @@ a:active{
   margin-top: 200px;
   float: right;
   background-color: rgb(228, 210, 152); opacity: .7;
+  background-attachment: fixed;
 }
 
 .introduction p{
@@ -49,6 +50,7 @@ a:active{
   padding-left: 50px;
   padding-right: 50px;
   line-height: 1.8em;
+  background-attachment: fixed;
 }
 
 #main{
